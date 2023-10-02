@@ -9,7 +9,7 @@ ___
 * git add
 * git commit -m "message"
 * touch
-* mldir
+* mkdir
 * rm
 * rmdir
 * git push
