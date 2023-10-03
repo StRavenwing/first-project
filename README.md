@@ -23,6 +23,5 @@ ___
 graph LR;
 
 %% Пройденные уроки
-1.Хэш --> 2.log --> 3.HEAD
-
+1.Хэш --> 2.log --> 3.HEAD --> 4.GitStatus1 --> 5.GitStatus2
 ```
