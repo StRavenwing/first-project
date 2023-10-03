@@ -2,20 +2,19 @@
 Предназначен для документирования пройденного пути
 ___
 Список изученных комманд:
-* pwd
-* cd
-* ls
-* cat
-* git add
-* git commit -m "message"
-* touch
-* mkdir
-* rm
-* rmdir
-* git push
-* git remote
-* git status
-* git log
+
+| Общие  	| Git                     	|
+|--------	|-------------------------	|
+| pwd    	| git add                 	|
+| cd     	| git commit -m "message" 	|
+| ls     	| git push                	|
+| cat    	| git remote              	|
+| mkdir  	| git status              	|
+| touch  	| git log                 	|
+| rm     	|                         	|
+| rmdir  	|                         	|
+| ls     	|                         	|
+|        	|                         	|
 
 # Пройденные уроки:
 
@@ -32,5 +31,6 @@ graph LR;
 %% commits
 untracked -- "git add" --> staged;
   staged    -- "git commit"     --> tracked/comitted;
+  tracked/comitted -- "git push" --> published;
 
 ```
