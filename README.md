@@ -17,11 +17,12 @@ ___
 * git status
 * git log
 
-``` mermaid 
-graph LR
+# Пройденные уроки:
 
+``` mermaid 
+graph LR;
 
 %% Пройденные уроки
-Хэш --> log
+1.Хэш --> 2.log --> 3.HEAD
 
 ```
