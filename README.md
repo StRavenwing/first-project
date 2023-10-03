@@ -3,18 +3,18 @@
 ___
 Список изученных комманд:
 
-| Общие  	| Git                     	|
-|--------	|-------------------------	|
-| pwd    	| git add                 	|
-| cd     	| git commit -m "message" 	|
-| ls     	| git push                	|
-| cat    	| git remote              	|
-| mkdir  	| git status              	|
-| touch  	| git log                 	|
-| rm     	|                         	|
-| rmdir  	|                         	|
-| ls     	|                         	|
-|        	|                         	|
+| Общие  	| Git                     	     |
+|--------	|------------------------------- |
+| pwd    	| git add                 	     |
+| cd     	| git commit -m "message" 	     |
+| ls     	| git push                	     |
+| cat    	| git remote              	     |
+| mkdir  	| git status              	     |
+| touch  	| git log                 	     |
+| rm     	| git add --amend                |
+| rmdir  	| git restore --staged  file     |
+| ls     	| git reset --hard commit hash   |
+|        	| git restore file               |
 
 # Пройденные уроки:
 
