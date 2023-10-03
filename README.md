@@ -16,3 +16,10 @@ ___
 * git remote
 * git status
 * git log
+
+``` mermaid 
+
+%% Пройденные уроки
+Хэш --> log
+<>
+```
