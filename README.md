@@ -14,7 +14,10 @@ ___
 | rm     	| git add --amend                |
 | rmdir  	| git restore --staged  file     |
 | ls     	| git reset --hard commit hash   |
-|        	| git restore file               |
+|        	| git diff                       |
+|        	| git diff --staged              |
+|        	|                                |
+|        	|                                |
 
 # Пройденные уроки:
 
