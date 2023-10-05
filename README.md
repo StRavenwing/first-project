@@ -23,7 +23,7 @@ ___
 |        	| git show                       |
 
 
-[# Шпаргалка](#https://practicum.yandex.ru/trainer/git-basics/lesson/b1ecee27-bb78-46a0-8d13-0364c7803f55/)
+[#Шпаргалка](#https://practicum.yandex.ru/trainer/git-basics/lesson/b1ecee27-bb78-46a0-8d13-0364c7803f55/)
 # Пройденные уроки:
 
 ``` mermaid 
