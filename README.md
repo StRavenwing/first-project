@@ -23,11 +23,13 @@ ___
 |        	| git merge                      |
 |        	| git push -u origin branch      |
 |        	| git pull                       |
-|        	| git                            |
+|        	| git push --force               |
+|        	| rebase               |
 
 
 [Шпаргалка](https://practicum.yandex.ru/trainer/git-basics/lesson/b1ecee27-bb78-46a0-8d13-0364c7803f55/)
 [Шпаргалка2](https://practicum.yandex.ru/trainer/git-basics/lesson/f22bb418-0a08-4aa7-b937-e21cc77c9298/)
+[Шпаргалка3](https://practicum.yandex.ru/trainer/git-basics/lesson/cb64571e-3cc2-4259-8561-3e432b4b99c1/)
 # Пройденные уроки:
 
 ``` mermaid 
@@ -41,6 +43,8 @@ graph LR;
 1.MakeBranch --> 2.GitCheckout --> 3.GitDiffBranches
 1.MergeBranch --> 2.DeleteBranch --> 3.MergeConflict
 1.PullRequest --> 2.GitPull
+1.FastForward --> 2.NonFastForward
+1.Rebase --> 3.GitPushForce
 
 ```
 # Log
