@@ -20,10 +20,14 @@ ___
 |        	| git fork                       |
 |        	| git branch                     |
 |        	| git checkout                   |
-|        	| git show                       |
+|        	| git merge                      |
+|        	| git push -u origin branch      |
+|        	| git pull                       |
+|        	| git                            |
 
 
 [Шпаргалка](https://practicum.yandex.ru/trainer/git-basics/lesson/b1ecee27-bb78-46a0-8d13-0364c7803f55/)
+[Шпаргалка2](https://practicum.yandex.ru/trainer/git-basics/lesson/f22bb418-0a08-4aa7-b937-e21cc77c9298/)
 # Пройденные уроки:
 
 ``` mermaid 
@@ -33,6 +37,11 @@ graph LR;
 1.Хэш --> 2.log --> 3.HEAD --> 4.GitStatus1 --> 5.GitStatus2
 1.FixCommit --> 2.RestoreCommit
 1.Diff --> 2.Echo --> 3.Teremok --> 4.Ignore
+1.GitClone --> 2.Fork
+1.MakeBranch --> 2.GitCheckout --> 3.GitDiffBranches
+1.MergeBranch --> 2.DeleteBranch --> 3.MergeConflict
+1.PullRequest --> 2.GitPull
+
 ```
 # Log
 
